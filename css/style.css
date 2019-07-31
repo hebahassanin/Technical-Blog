@@ -1,0 +1,17 @@
+
+img{
+    margin-top:40px;
+}
+
+footer{
+    
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    text-align: center;
+}
+
+footer p{
+    margin: 20px 0;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
